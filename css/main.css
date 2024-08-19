@@ -2696,6 +2696,7 @@ video {height: 100%;
 
 .footer-text {
   padding-top: 20px;
+  text-align: center;
 }
 
 .footer-text a, .footer-text i {
